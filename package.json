@@ -15,11 +15,11 @@
   },
   "author": "Xavier Decuyper <hi@savjee.be>",
   "license": "MIT",
-  "repository": "github:SavjeeTutorials/SavjeeCoin",
+  "repository": "github:c0debrain/SavjeeCoin",
   "bugs": {
-    "url": "https://github.com/SavjeeTutorials/SavjeeCoin/issues"
+    "url": "https://github.com/c0debrain/SavjeeCoin/issues"
   },
-  "homepage": "https://github.com/SavjeeTutorials/SavjeeCoin",
+  "homepage": "https://github.com/c0debrain/SavjeeCoin",
   "dependencies": {
     "debug": "^4.1.1",
     "elliptic": "^6.5.1"
